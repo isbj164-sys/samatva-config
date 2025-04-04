@@ -1,0 +1,232 @@
+[
+    {
+        "label": "General Rules",
+        "rules": [
+            {
+                "title": "Microphone Requirement",
+                "desc": "A microphone is required to join the server. If caught without one, you will be kicked and possibly banned until you can prove you have a working microphone on Discord. To check if your microphone is working, press 'n' (default key) and check if the voice option in the bottom right lights up purple."
+            },
+            {
+                "title": "Trolling Prohibition",
+                "desc": "Trolling is not welcome and you will be warned if caught."
+            },
+            {
+                "title": "Metagaming Definition",
+                "desc": "Metagaming refers to using real-life knowledge about the game to determine your character's actions, even when your character wouldn't have that knowledge. This includes stream sniping and using third-party VOIP applications."
+            },
+            {
+                "title": "AFK Prohibition",
+                "desc": "AFK farming and abusing in-game bugs will result in an immediate ban."
+            },
+            {
+                "title": "Combat Logging",
+                "desc": "Logging out during an active situation to avoid role-play is prohibited."
+            },
+            {
+                "title": "Revenge RP Prohibition",
+                "desc": "Revenge role-play is not allowed."
+            },
+            {
+                "title": "Impersonation of Emergency Services",
+                "desc": "Impersonating Police, EMS, Mechanics, or Military personnel is forbidden. You may not use their character models."
+            },
+            {
+                "title": "Character Development",
+                "desc": "Character development involves observable changes in the character as the narrative progresses. This includes focusing on character traits, circumstances, family structure, social interactions, appearance, and backstory."
+            }
+        ]
+    },
+    {
+        "label": "Role-Playing Rules",
+        "rules": [
+            {
+                "title": "Powergaming",
+                "desc": "Powergaming involves role-playing outside of your character traits, abusing mechanics, and using non-in-game means to gain an advantage. Examples include creating role-play with only one outcome, modding your game client to gain an advantage, not role-playing injuries, jumping to gain speed, using a taser to pop tires, role-playing unrealistic superpowers, organizing while downed, using a phone or radio while downed or handcuffed, and changing your PED's appearance frequently."
+            },
+            {
+                "title": "RDM (Random Deathmatch)",
+                "desc": "Killing people without a story leading up to it. Always initiate and make people aware of what you are doing and why. Killing someone while they are AFK is considered RDM."
+            },
+            {
+                "title": "VDM (Vehicle Deathmatch)",
+                "desc": "Using a vehicle as a weapon to kill someone is prohibited unless there is a direct threat to your life."
+            },
+            {
+                "title": "New Life Rule",
+                "desc": "If you respawn at the hospital, your character forgets all events leading up to being downed in the current scenario. You may not respawn if police or EMS are on the way, if you are in an active situation (30 mins), or if your injuries were not self-inflicted."
+            },
+            {
+                "title": "4-Man Rule",
+                "desc": "Criminal activities are limited to 4 players max at a time, including those acting as spotters or providing communication."
+            },
+            {
+                "title": "Prohibited Role-Play",
+                "desc": "Rape RP, Suicide RP, and Erotic RP in public are not allowed. Pregnancy RP requires staff/admin approval. Torture RP is allowed if all parties agree. Animal RP requires staff/admin approval."
+            },
+            {
+                "title": "Verbal/Digital Content Permission",
+                "desc": "You cannot play copyrighted music unless you have permission. Normal abusive words are allowed in role-play, but highly offensive abusive words require mutual understanding."
+            },
+            {
+                "title": "Character Development",
+                "desc": "Character development should focus on observable changes in the character's traits and circumstances as the narrative progresses."
+            }
+        ]
+    },
+    {
+        "label": "Police Chase Rules",
+        "rules": [
+            {
+                "title": "No Quick Repairs",
+                "desc": "Quick repair at a mechanic shop is not allowed during a police chase. If your car is dying, get out, leave it, and find a new one."
+            },
+            {
+                "title": "Non-Interference",
+                "desc": "Do not interfere with someone else's scenario if you are not involved. Drive past in a normal fashion."
+            },
+            {
+                "title": "Reporting Crimes",
+                "desc": "If you see a robbery, drive to a safe location and call the police."
+            },
+            {
+                "title": "Police Chase Non-Interference",
+                "desc": "Do not interfere with a police chase. You can give directions if asked by a police officer, but do not try to ram the suspect, shoot, or join the pursuit."
+            }
+        ]
+    },
+    {
+        "label": "Robbery Rules",
+        "rules": [
+            {
+                "title": "Fleeca Bank Robbery",
+                "desc": "Maximum 4 people in one robbery situation. Only 1 escape vehicle allowed. You can take only one hostage. Friendly hostages are not allowed. Robbers can keep only 2 demands."
+            },
+            {
+                "title": "Pacific Bank Robbery",
+                "desc": "Maximum 6 people in one robbery situation. Only 1 escape vehicle allowed. You can take only one hostage. Friendly hostages are not allowed. Robbers can keep only 2 demands."
+            },
+            {
+                "title": "Store Robbery",
+                "desc": "Maximum 3 people in one robbery situation. Only 1 escape vehicle allowed. You can take only one hostage. Friendly hostages are not allowed. Robbers can keep only 2 demands."
+            },
+            {
+                "title": "Jewelry Robbery",
+                "desc": "Maximum 4 people in one robbery situation. Only 1 escape vehicle allowed. You can take only two hostages. Friendly hostages are not allowed. Robbers can keep only 2 demands."
+            },
+            {
+                "title": "Robbery Demands and Vehicle Rules",
+                "desc": "You cannot demand NO Air-One, money for hostage, or a fast car for hostage. You must have 2 robbers and 1 hostage to rob a bank/shop. Police intentions to burst tires unless civilians are Code-Red. No robbing with a vehicle inside. Announce your party size at the beginning of a robbery. Fake hostages are not allowed. Water escape results in Code Red. No PD guns for police hostage situations. Demands will be accepted or declined according to police decisions."
+            }
+        ]
+    },
+    {
+        "label": "Zone Rules",
+        "rules": [
+            {
+                "title": "Green Zone",
+                "desc": "Safe areas where players can convene without hostile interruption. Police can still attempt to arrest you. No weapons allowed. No toxicity. No killing, robbing, hostage-taking, or lock-picking vehicles in Green Zones. Only EMS can stay in the SRP Hospital for more than 5 minutes. No one can stay in a non-hospital safe zone for more than 3 minutes."
+            },
+            {
+                "title": "Blue Zone",
+                "desc": "Police areas where extra protection is afforded to police. Police can arrest, detain, shoot, or taze anyone they find to be a threat within the Blue Zone. Retreating to a blue zone while engaged in a gunfight is not allowed."
+            },
+            {
+                "title": "Red Zone",
+                "desc": "Includes Weed Farms, Coke, Meth and Opium Factory, Drugs Processing Areas, and Drugs Farming areas. All server rules apply except the RDM rule. No hostages in Red Zone. Red Zone-specific rules apply when both shooter and victim are in the Red Zone."
+            },
+            {
+                "title": "Purple Zone",
+                "desc": "Includes Jail, Military Base, and Crime Scenes. Weapons must be holstered. No killing. No retreating to a purple zone while engaged in a gunfight."
+            },
+            {
+                "title": "Orange Zone",
+                "desc": "Gang-controlled zones. RDM rules still apply. No gang war in an orange zone."
+            }
+        ]
+    },
+    {
+        "label": "Miscellaneous Rules",
+        "rules": [
+            {
+                "title": "Disrespecting Staff/Support",
+                "desc": "Disrespecting staff members will result in a day-long Discord mute and 200 community service in-game."
+            },
+            {
+                "title": "Spamming",
+                "desc": "Messaging staff members multiple times on Discord will delay your request. Be patient."
+            },
+            {
+                "title": "Staff Abuse",
+                "desc": "Staff members abusing their power with clear evidence and no clear reasoning will be dealt with based on the severity of the issue."
+            },
+            {
+                "title": "Staff Discretion",
+                "desc": "SRP Staff reserve the right to restrict access to our services at their discretion."
+            },
+            {
+                "title": "Loitering",
+                "desc": "Do not hang around government properties unless needed. Use other hangouts instead of standing and chatting at Pillbox all day."
+            },
+            {
+                "title": "Tuner Chip",
+                "desc": "Keep a tuner chip on you if you tune your car."
+            },
+            {
+                "title": "Avoid Roleplay Blurring",
+                "desc": "Avoid going out of role-play (blurring the lines between in-game and real life). Use [RP] tags if needed."
+            },
+            {
+                "title": "OOC Chat",
+                "desc": "Using OOC (Out of Character) chat should be minimized."
+            },
+            {
+                "title": "Discord Calls",
+                "desc": "Using Discord calls instead of in-game voice chat is not allowed."
+            },
+            {
+                "title": "Exploiting",
+                "desc": "Exploiting bugs or glitches will result in a ban."
+            },
+            {
+                "title": "Ghosting",
+                "desc": "Logging out in active role-play scenarios to avoid consequences is prohibited."
+            },
+            {
+                "title": "Modding",
+                "desc": "Using mods to gain an unfair advantage is forbidden."
+            },
+            {
+                "title": "Stream Sniping",
+                "desc": "Using someone's stream to gain in-game information is prohibited."
+            },
+            {
+                "title": "Voice Changers",
+                "desc": "Voice changers are not allowed unless approved by staff."
+            },
+            {
+                "title": "Combat Reviving",
+                "desc": "Reviving during an active situation is not allowed unless approved by both parties."
+            },
+            {
+                "title": "Scamming",
+                "desc": "Scamming in-game items is allowed, but scamming real money is strictly forbidden."
+            },
+            {
+                "title": "Random Punching",
+                "desc": "Randomly punching other players without role-play is not allowed."
+            },
+            {
+                "title": "Parking",
+                "desc": "Avoid parking vehicles in front of doorways or pathways."
+            },
+            {
+                "title": "Vehicle Boosting",
+                "desc": "Boosting vehicles is not allowed unless approved by staff."
+            },
+            {
+                "title": "Gang Rules",
+                "desc": "Follow specific gang rules as outlined by staff."
+            }
+        ]
+    }
+]
