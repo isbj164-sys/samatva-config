@@ -3,36 +3,56 @@
         "label": "General Rules",
         "rules": [
             {
+                "title": "Zero Tolerance for Hate and Discrimination",
+                "desc": "Our community holds zero tolerance for any form of hate or discrimination. This includes but is not limited to racism, sexism, homophobia, transphobia, religious or caste-based bias, and derogatory language. Trolling and toxic behaviour aimed at hurting others are strictly forbidden."
+            },
+            {
                 "title": "Microphone Requirement",
-                "desc": "A microphone is required to join the server. If caught without one, you will be kicked and possibly banned until you can prove you have a working microphone on Discord. To check if your microphone is working, press 'n' (default key) and check if the voice option in the bottom right lights up purple."
+                "desc": "All players must have a clear, working microphone. Poor or non-functional mics may lead to removal from the server until you can demonstrate that your mic works properly on Discord. Use your push-to-talk key (default: N) to verify that your voice icon lights up in-game."
             },
             {
-                "title": "Trolling Prohibition",
-                "desc": "Trolling is not welcome and you will be warned if caught."
+                "title": "Respectful and Realistic Character Names",
+                "desc": "Players must choose realistic, respectful names for their characters. Names that are offensive, inappropriate, meme-based, or deliberately provocative will not be tolerated and may result in forced name changes or further action."
             },
             {
-                "title": "Metagaming Definition",
-                "desc": "Metagaming refers to using real-life knowledge about the game to determine your character's actions, even when your character wouldn't have that knowledge. This includes stream sniping and using third-party VOIP applications."
+                "title": "Copyrighted / DMCA Content",
+                "desc": "Do not stream or play copyrighted media such as movies, songs, shows, or any other protected content without valid permission. This includes covers and remixes unless you have the legal rights or licenses. Always respect the work of original creators."
             },
             {
-                "title": "AFK Prohibition",
-                "desc": "AFK farming and abusing in-game bugs will result in an immediate ban."
+                "title": "Roleplay Continuity",
+                "desc": "Roleplay should continue naturally unless all parties mutually agree in OOC to pause or stop. If a pause is needed, only one pause–resume per scenario is allowed unless admins explicitly authorize otherwise."
             },
             {
-                "title": "Combat Logging",
-                "desc": "Logging out during an active situation to avoid role-play is prohibited."
+                "title": "ERP and NSFW Prohibition",
+                "desc": "ERP (Erotic Roleplay), sexually explicit content or scenarios, suggestive themes crossing into NSFW, and sharing or posting lewd/NSFW images is strictly banned. We maintain a safe, inclusive, and respectful environment for everyone."
             },
             {
-                "title": "Revenge RP Prohibition",
-                "desc": "Revenge role-play is not allowed."
+                "title": "Real-World Tragedies and Sensitive Topics",
+                "desc": "The use of real-world tragedies or sensitive subjects such as terrorism, suicide, self-harm, mental health disorders, pandemics, or similar events in roleplay is not allowed. Keep roleplay fictional and respectful toward real-world victims and communities."
             },
             {
-                "title": "Impersonation of Emergency Services",
-                "desc": "Impersonating Police, EMS, Mechanics, or Military personnel is forbidden. You may not use their character models."
+                "title": "Pressuring Others to Break Rules",
+                "desc": "Attempting to persuade, pressure, or coerce others into breaking server rules is a serious violation. You may face the same consequences as the offender if you are found encouraging or enabling rule-breaking."
             },
             {
-                "title": "Character Development",
-                "desc": "Character development involves observable changes in the character as the narrative progresses. This includes focusing on character traits, circumstances, family structure, social interactions, appearance, and backstory."
+                "title": "Rule Updates and Player Responsibility",
+                "desc": "Changes and updates to rules will be announced via our website or Discord. It is each member’s responsibility to remain informed and comply with the latest guidelines and rule revisions."
+            },
+            {
+                "title": "Metagaming (General Definition)",
+                "desc": "Metagaming refers to using out-of-character (OOC) information to influence in-character (IC) decisions when your character would not reasonably have that information. This includes using Discord/third-party VOIP to coordinate in situations instead of in-game communication, or stream sniping to know someone’s location. Official server-sided IC channels are treated as in-character email/notification systems and are exceptions when used correctly."
+            },
+            {
+                "title": "AFK and Bug Abuse",
+                "desc": "AFK farming and abusing in-game bugs or glitches to gain an advantage are strictly prohibited and may result in an immediate ban. If you discover a bug, report it to staff instead of exploiting it."
+            },
+            {
+                "title": "Combat Logging (Overview)",
+                "desc": "Logging out, crashing your game intentionally, pulling your internet, or otherwise disconnecting to avoid or escape an active roleplay situation is considered combat logging and is not allowed. See the detailed Combat Logging rule under Role-Playing Rules."
+            },
+            {
+                "title": "Trolling and Low-Effort Behaviour",
+                "desc": "Trolling, griefing, or joining solely to disturb others’ roleplay is not welcome. Repeatedly engaging in low-effort or non-serious behaviour that ruins others’ experiences will result in warnings or removal from the server."
             }
         ]
     },
@@ -40,36 +60,84 @@
         "label": "Role-Playing Rules",
         "rules": [
             {
+                "title": "Random Deathmatch (RDM)",
+                "desc": "RDM is killing or attacking other players without proper roleplay or a story leading up to the violence. You must always initiate, make people aware of what you are doing and why, and give them a chance to react unless there is a clearly established ongoing conflict or war with proper buildup. Killing someone while they are AFK is considered RDM. In fully built-up gang wars, pre-initiated conflict may reduce the need for verbal initiation, but the underlying story must still exist."
+            },
+            {
+                "title": "Vehicle Deathmatch (VDM)",
+                "desc": "VDM is using a vehicle as a weapon to intentionally kill, injure, or ram others. You may not deliberately run over or repeatedly ram players or their vehicles unless there is a clear and immediate threat to your life and you are showing reasonable fear. Ramming other players’ vehicles like \"rocket league\" gameplay is prohibited. Police may perform PIT manoeuvres following departmental SOPs. Civilians may hit a vehicle once or twice to stop it, but repeated ramming is considered VDM. Using helicopters/aircrafts to crash into people is also VDM."
+            },
+            {
                 "title": "Powergaming",
-                "desc": "Powergaming involves role-playing outside of your character traits, abusing mechanics, and using non-in-game means to gain an advantage. Examples include creating role-play with only one outcome, modding your game client to gain an advantage, not role-playing injuries, jumping to gain speed, using a taser to pop tires, role-playing unrealistic superpowers, organizing while downed, using a phone or radio while downed or handcuffed, and changing your PED's appearance frequently."
+                "desc": "Powergaming is role-playing outside your character’s reasonable abilities, abusing mechanics, or creating scenarios with only one possible outcome to gain an unfair advantage. Examples include: not role-playing injuries (e.g. sprinting out of hospital after being severely wounded), jumping around purely to gain speed, using a taser to pop tires, roleplaying unrealistic superpowers, talking or organizing while downed, using a phone or radio while downed or handcuffed, constantly changing your PED’s look mid-scenario, escorting conscious players as a civilian, handcuffing while sprinting, or abusing vehicles with tiny/no windows to avoid being shot. Emote exploiting, such as keybinding emotes like /carry or /e sunbathe for advantage or pretending to use tools you do not have in your inventory, also counts as powergaming."
             },
             {
-                "title": "RDM (Random Deathmatch)",
-                "desc": "Killing people without a story leading up to it. Always initiate and make people aware of what you are doing and why. Killing someone while they are AFK is considered RDM."
+                "title": "Combat Logging (Detailed)",
+                "desc": "Combat logging is quitting or disconnecting from the game by any means (F8 quit, Alt+F4, pulling cables, turning off your router, etc.) to avoid or escape an active roleplay situation. If your internet, electricity, or game genuinely crashes, you must inform staff and the involved party in the crash-reports channel on Discord within 5 minutes. If you were in a police situation and cannot return within 5–10 minutes, the situation is considered over and you must surrender to police afterward; avoiding this surrender will be treated as combat logging. In gang/criminal scenarios, you must either mutually agree with the other party to continue from where it left off or surrender; the same 5–10 minute timeframe applies."
             },
             {
-                "title": "VDM (Vehicle Deathmatch)",
-                "desc": "Using a vehicle as a weapon to kill someone is prohibited unless there is a direct threat to your life."
+                "title": "Combat Storing",
+                "desc": "Combat storing is storing items or vehicles to avoid losing them during an active situation. This includes placing items into house stashes or gloveboxes, parking vehicles in garages during chases or fights, reconnecting after a crash just to stash loot, or giving items to a friend and then logging out to avoid consequences. All such behaviour is prohibited."
             },
             {
-                "title": "New Life Rule",
-                "desc": "If you respawn at the hospital, your character forgets all events leading up to being downed in the current scenario. You may not respawn if police or EMS are on the way, if you are in an active situation (30 mins), or if your injuries were not self-inflicted."
+                "title": "Low-Effort Roleplay",
+                "desc": "Players must put genuine effort into their characters and scenarios. Constantly shooting, always running from police over minor issues (e.g. a speeding ticket), using your friends as fake hostages, kidnapping AFK players, or using NPCs (store clerks) as hostages are examples of low-effort RP. Vulturing loot from people on the ground in scenarios you are not involved in is also low-effort and disrespectful to other players’ roleplay."
             },
             {
-                "title": "4-Man Rule",
-                "desc": "Criminal activities are limited to 4 players max at a time, including those acting as spotters or providing communication."
+                "title": "Failed Roleplay (Fail RP)",
+                "desc": "Fail RP is ignoring server rules, realism, or basic common sense to do whatever you want, without concern for others’ RP. Examples include jumping from high buildings and running away as if nothing happened, taking absurd ramps or jumps that would be fatal in real life, or using cameras/phones unrealistically (e.g. audio through walls). You must portray injuries, fear, and consequences in a believable way."
             },
             {
-                "title": "Prohibited Role-Play",
-                "desc": "Rape RP, Suicide RP, and Erotic RP in public are not allowed. Pregnancy RP requires staff/admin approval. Torture RP is allowed if all parties agree. Animal RP requires staff/admin approval."
+                "title": "Gunplay over Roleplay",
+                "desc": "You must prioritise roleplay and interaction over gunplay. Shooting or killing someone should be the last resort, not the default reaction. Shooting people because they insulted you, lightly hit your car, or bruised your ego is considered gunplay over roleplay and is not allowed."
             },
             {
-                "title": "Verbal/Digital Content Permission",
-                "desc": "You cannot play copyrighted music unless you have permission. Normal abusive words are allowed in role-play, but highly offensive abusive words require mutual understanding."
+                "title": "Roleplay over Ruleplay (Special Cases)",
+                "desc": "Roleplay over ruleplay may be applied only in selected, high-quality scenarios involving many players or when explicitly authorised by Samatva Roleplay management. In such cases, management may review the scenario and take necessary actions if rules were bent in service of exceptional RP."
+            },
+            {
+                "title": "Meta Gaming (Extended)",
+                "desc": "Using out-of-character information (from Discord, streams, OOC chat, etc.) to influence in-character actions is metagaming and is strictly forbidden. Stream-sniping locations, using external apps for tactical comms instead of in-game, or sharing IC information via OOC chats all count as metagaming. Official server IC channels may be used as in-game email/notification systems and are exceptions when used as intended."
+            },
+            {
+                "title": "Fear Roleplay (Fear RP)",
+                "desc": "You must show fear for your life and potential harm in dangerous situations. If someone points a gun at you, you must stop, put your hands up, and follow their instructions rather than badmouthing or provoking them. Giving radio calls or walking around while a gun is pointed at you is not allowed unless the aggressor explicitly allows it. Police may resist when only one Class 1 weapon is pointed at them, but must show fear if two guns are pointed or if they are outgunned by Class 2 weapons. Fear RP also applies to non-gun situations (e.g. you cannot casually jump off a 3-storey building and walk away as if nothing happened)."
+            },
+            {
+                "title": "Roleplay Blurring (IC vs OOC)",
+                "desc": "There must be a clear separation between in-character (IC) and out-of-character (OOC) feelings and knowledge. Acting based on OOC grudges, disagreements, or personal drama in character is forbidden, especially in a toxic way. If you feel tilted or emotional, take a break. Do not pretend to be AFK, claim “I can’t see anything”, or fake technical issues to avoid RP. If you genuinely have issues, move to a safe area IC and explain it in-character (e.g. \"my head is aching, I need a moment\")."
+            },
+            {
+                "title": "Toxicity and Abusive Language",
+                "desc": "Friendly banter and mild slang may be acceptable when all parties are clearly comfortable, but hateful, targeted, or sexually abusive language is not allowed. This includes making fun of religion, caste, community, faith, or using slurs. Abusing or harassing female players, sexualising them, or gaslighting others into abusive behaviour is strictly prohibited. If it is found that a female player provoked or gaslit someone into abuse, severe actions may be taken against both parties."
+            },
+            {
+                "title": "New Life Rule (NLR)",
+                "desc": "When your character dies and you respawn, you must forget all events leading up to being downed or killed in that scenario. You may only call EMS/police while downed if you are 100% alone and your injuries were not caused by someone else. You cannot force NLR on someone by hiding bodies where they can never be found except in very specific gang/criminal identity-protection scenarios. NLR does not apply if you are treated at an illegal hospital; you will remember the situation. You cannot kill and revive someone at an illegal hospital more than twice, and you must pay them for the RP. If a non-involved friend picks you up while you are downed, or EMS transports you, NLR still applies. If an involved friend takes you to the hospital and reminds you, you may remember events with a blurry memory."
             },
             {
                 "title": "Character Development",
-                "desc": "Character development should focus on observable changes in the character's traits and circumstances as the narrative progresses."
+                "desc": "You must actively develop your character’s story and stay consistent with their background and culture. Your name, accent, habits, and behaviour should reflect your character’s identity (e.g. a Korean character named Li Park should occasionally reference Korean culture and have a reason for knowing Hindi if they speak it). Custom gangs must have original names and lore. Your progression, relationships, and choices should make sense over time."
+            },
+            {
+                "title": "Revenge Roleplay",
+                "desc": "Revenge RP is not allowed for petty reasons such as someone insulting your clothes. It is only allowed when there is a strong build-up and meaningful conflict, particularly in gang-to-gang scenarios with proper escalation. Revenge RP must never be used as an excuse to force more gunplay."
+            },
+            {
+                "title": "Random Robbing",
+                "desc": "You cannot kill, rob, or hold people at gunpoint purely because you want their items or money. Random robbing for loot with no RP is forbidden. You may not loot vehicles in Green Zones (gloveboxes/trunks) or rob AFK players."
+            },
+            {
+                "title": "Doxing and OOC Harassment",
+                "desc": "Doxing, threatening, or abusing people in real life over in-game scenarios is absolutely forbidden. Asking for personal information like phone numbers, harassing players on Discord, tagging or DMing them to taunt about RP, or abusing staff members because a situation did not go your way are all serious violations and will be punished harshly."
+            },
+            {
+                "title": "Prohibited Role-Play",
+                "desc": "Rape RP is NOT ALLOWED under any circumstances. Suicide RP is NOT ALLOWED. Pregnancy RP is only allowed with explicit staff/admin approval. Erotic RP must never happen in public and must respect YouTube and platform TOS; any explicit ERP is generally disallowed on this server. Torture RP is allowed only if ALL involved parties clearly agree to it. Animal RP is restricted to staff or requires prior staff/admin approval."
+            },
+            {
+                "title": "Verbal and Digital Content",
+                "desc": "You may not play or stream DMCA-protected music or media without proper permission. Normal in-character abusive words may be tolerated when they remain within roleplay and all parties are comfortable, but extreme, hateful, or targeted abuse is not permitted. When in doubt, choose respect over shock value."
             }
         ]
     },
@@ -77,20 +145,20 @@
         "label": "Police Chase Rules",
         "rules": [
             {
-                "title": "No Quick Repairs",
-                "desc": "Quick repair at a mechanic shop is not allowed during a police chase. If your car is dying, get out, leave it, and find a new one."
+                "title": "No Quick Repairs During Chase",
+                "desc": "Quick repairs at mechanic shops or using similar means to instantly fix your vehicle during an active police chase are not allowed. If your car is heavily damaged, you must abandon it and continue on foot or with a different vehicle obtained through proper RP."
             },
             {
-                "title": "Non-Interference",
-                "desc": "Do not interfere with someone else's scenario if you are not involved. Drive past in a normal fashion."
+                "title": "Non-Interference with Other Scenarios",
+                "desc": "Do not interfere with scenarios you are not a part of. If you see an active police or criminal situation that you are not involved in, you should drive or walk past in a normal manner unless you have a valid RP reason to get involved."
             },
             {
                 "title": "Reporting Crimes",
-                "desc": "If you see a robbery, drive to a safe location and call the police."
+                "desc": "If you witness a robbery or serious crime, drive or move to a safe location before calling the police. Do not insert yourself into the situation to be a hero unless it naturally fits your character and the RP."
             },
             {
                 "title": "Police Chase Non-Interference",
-                "desc": "Do not interfere with a police chase. You can give directions if asked by a police officer, but do not try to ram the suspect, shoot, or join the pursuit."
+                "desc": "Do not interfere with an ongoing police chase. You may provide directions or information to officers if asked, but you may not ram the suspect, block them intentionally, shoot them, or join the pursuit unless you are part of the original scenario."
             }
         ]
     },
@@ -99,23 +167,27 @@
         "rules": [
             {
                 "title": "Fleeca Bank Robbery",
-                "desc": "Maximum 4 people in one robbery situation. Only 1 escape vehicle allowed. You can take only one hostage. Friendly hostages are not allowed. Robbers can keep only 2 demands."
+                "desc": "Maximum 4 people may participate in a single Fleeca robbery situation. Only 1 escape vehicle is allowed. You may take only 1 hostage, and that hostage must be a genuine player, not a friend colluding with you. Robbers may keep only 2 realistic demands."
             },
             {
                 "title": "Pacific Bank Robbery",
-                "desc": "Maximum 6 people in one robbery situation. Only 1 escape vehicle allowed. You can take only one hostage. Friendly hostages are not allowed. Robbers can keep only 2 demands."
+                "desc": "Maximum 6 people may participate in a single Pacific Bank robbery. Only 1 escape vehicle is allowed. You may take only 1 real hostage (no friendly/fake hostages). Robbers may keep only 2 realistic demands."
             },
             {
                 "title": "Store Robbery",
-                "desc": "Maximum 3 people in one robbery situation. Only 1 escape vehicle allowed. You can take only one hostage. Friendly hostages are not allowed. Robbers can keep only 2 demands."
+                "desc": "Maximum 3 people may participate in a single convenience store robbery. Only 1 escape vehicle is allowed. You may take only 1 real hostage. Robbers may keep only 2 realistic demands."
             },
             {
                 "title": "Jewelry Robbery",
-                "desc": "Maximum 4 people in one robbery situation. Only 1 escape vehicle allowed. You can take only two hostages. Friendly hostages are not allowed. Robbers can keep only 2 demands."
+                "desc": "Maximum 4 people may participate in a single jewelry store robbery. Only 1 escape vehicle is allowed. You may take up to 2 real hostages. Robbers may keep only 2 realistic demands."
+            },
+            {
+                "title": "General Robbery Conduct",
+                "desc": "Robbing every player you see does not benefit roleplay and is not allowed. Robberies should be planned, uncommon, and supported by story. Chain robbing (repeatedly hitting the same stores, banks, or ATMs in a short period without meaningful RP) is forbidden. You may not rob AFK players or initiate RP purely to rob someone. Restart warnings (30 minutes before restart) mean NO new bank robberies, jewelry heists, ATM hits, or store robberies may be started."
             },
             {
                 "title": "Robbery Demands and Vehicle Rules",
-                "desc": "You cannot demand NO Air-One, money for hostage, or a fast car for hostage. You must have 2 robbers and 1 hostage to rob a bank/shop. Police intentions to burst tires unless civilians are Code-Red. No robbing with a vehicle inside. Announce your party size at the beginning of a robbery. Fake hostages are not allowed. Water escape results in Code Red. No PD guns for police hostage situations. Demands will be accepted or declined according to police decisions."
+                "desc": "You cannot demand \"no Air-One\", money directly for hostages, or a faster car in exchange for hostages. You must have at least 2 robbers and 1 hostage to rob a bank/shop. Police may intend to burst tires only when civilians are Code Red threats. No robbing with a vehicle parked inside the store/bank. You must announce your party size at the beginning of a robbery. Fake hostages are not allowed. Water escapes will be treated as Code Red. You cannot demand PD weapons from police hostages. Police have final discretion to accept or deny demands."
             }
         ]
     },
@@ -124,23 +196,31 @@
         "rules": [
             {
                 "title": "Green Zone",
-                "desc": "Safe areas where players can convene without hostile interruption. Police can still attempt to arrest you. No weapons allowed. No toxicity. No killing, robbing, hostage-taking, or lock-picking vehicles in Green Zones. Only EMS can stay in the SRP Hospital for more than 5 minutes. No one can stay in a non-hospital safe zone for more than 3 minutes."
+                "desc": "Green Zones are safe areas where players can gather without hostile interruption. Police can still attempt to arrest you here. Within a Green Zone and roughly 100m around it, you may not draw or fire weapons, be toxic, kill, rob, take hostages, or lockpick/steal vehicles. Areas considered Green Zones include: Hospital, Mechanic Shops, PDM, Legion Garage parking area, Tinsel Towers and Tinsel garage. You may not retreat to a Green Zone to escape an active situation, but a situation that began outside and flows into a Green Zone may continue. If a verbal altercation in a Green Zone escalates, the offended party may call the other outside; the called party must leave within 5 minutes, and the other party may not camp the exits."
             },
             {
                 "title": "Blue Zone",
-                "desc": "Police areas where extra protection is afforded to police. Police can arrest, detain, shoot, or taze anyone they find to be a threat within the Blue Zone. Retreating to a blue zone while engaged in a gunfight is not allowed."
+                "desc": "Blue Zones are Police and Government areas with extra protection for law enforcement. This includes all Police Stations, the Court House, and Government Buildings. Police may arrest, detain, taze, or shoot anyone who presents a threat in these areas. Retreating to a Blue Zone while engaged in a gunfight is not allowed. Civilians may come here to seek help if being followed or threatened."
+            },
+            {
+                "title": "White Zone",
+                "desc": "White Zones are Job and Business areas where players are grinding or roleplaying work without hostile interruption. Police can detain, arrest, cuff, or gunpoint people here when justified. Verbal altercations are allowed, but you may not kill, rob, or take hostages inside a White Zone. There is no 100m rule here, but camping outside business/job locations to ambush players is not allowed. You may not take people hostage while they are actively doing a job."
             },
             {
                 "title": "Red Zone",
-                "desc": "Includes Weed Farms, Coke, Meth and Opium Factory, Drugs Processing Areas, and Drugs Farming areas. All server rules apply except the RDM rule. No hostages in Red Zone. Red Zone-specific rules apply when both shooter and victim are in the Red Zone."
+                "desc": "Red Zones are gang turf and illegal activity locations such as weed farms, coke/meth/drug labs, and other illegal areas. All server rules still apply here, including RDM rules—players must interact before resorting to violence. Hostages may not be taken into Red Zones, and you cannot take hostages from inside these zones. Red Zone-specific rules apply only when both shooter and victim are inside the Red Zone."
             },
             {
                 "title": "Purple Zone",
-                "desc": "Includes Jail, Military Base, and Crime Scenes. Weapons must be holstered. No killing. No retreating to a purple zone while engaged in a gunfight."
+                "desc": "Purple Zones include Prison, NOOSE Building, FIB Building, and ongoing major crime scenes such as active robbery scenes. No gunfights or hostile situations should start or spill into these areas. Once a prison escort van is within 100m of the prison, that escort RP is considered over. You may not attempt to kill anyone in a Purple Zone, and prisoners may not attempt to kill DOC or Police in prison via RP. Retreating into a Purple Zone to escape a gunfight is not allowed."
             },
             {
                 "title": "Orange Zone",
-                "desc": "Gang-controlled zones. RDM rules still apply. No gang war in an orange zone."
+                "desc": "Orange Zones are gang-controlled hood and turf areas. RDM rules fully apply; interaction is required before violence. You cannot conduct full gang wars in an Orange Zone. If your character knows these areas are dangerous in RP, you must show appropriate fear when entering them. Police may not randomly poke around hostile Orange Zones without a strong in-character reason."
+            },
+            {
+                "title": "Black Zone",
+                "desc": "Black Zones include the Military Base and Navy carrier/ship base stations. These zones are fully restricted. No criminals, gangs, or police may enter for casual RP. Anyone entering without explicit, special management-approved RP may be shot with maximum force and punished. In rare cases, management can explicitly allow special RP scenarios here that override normal zone rules."
             }
         ]
     },
@@ -148,84 +228,72 @@
         "label": "Miscellaneous Rules",
         "rules": [
             {
-                "title": "Disrespecting Staff/Support",
-                "desc": "Disrespecting staff members will result in a day-long Discord mute and 200 community service in-game."
+                "title": "Disrespecting Staff or Support",
+                "desc": "Staff members are here to help and enforce rules. Misbehaving with Samatva Roleplay staff (verbal abuse, threats, continuous disrespect) is not permitted and will result in a Discord mute of at least one day and 200 community service in-game, or more for repeat offenders."
             },
             {
-                "title": "Spamming",
-                "desc": "Messaging staff members multiple times on Discord will delay your request. Be patient."
+                "title": "Spamming Staff",
+                "desc": "Spamming or repeatedly messaging staff members on Discord or in-game to rush your request will slow things down and may result in disciplinary action. Everyone will be handled in turn—be patient and respectful."
             },
             {
                 "title": "Staff Abuse",
-                "desc": "Staff members abusing their power with clear evidence and no clear reasoning will be dealt with based on the severity of the issue."
+                "desc": "If a staff member is found abusing their power with clear evidence and no valid justification, they will be dealt with by management according to the severity of the abuse. Reports must include proof and will be investigated seriously."
             },
             {
                 "title": "Staff Discretion",
-                "desc": "SRP Staff reserve the right to restrict access to our services at their discretion."
+                "desc": "Samatva Roleplay staff reserve the right to restrict access to our services (game server and Discord) at their discretion. This may include players causing drama, refusing to resolve disputes, repeatedly bending rules, or displaying a consistently negative attitude toward the community."
             },
             {
-                "title": "Loitering",
-                "desc": "Do not hang around government properties unless needed. Use other hangouts instead of standing and chatting at Pillbox all day."
-            },
-            {
-                "title": "Tuner Chip",
-                "desc": "Keep a tuner chip on you if you tune your car."
+                "title": "Loitering at Government Properties",
+                "desc": "Do not hang or loiter around government properties (such as hospitals, police stations, and other public service buildings) unless you are there for roleplay reasons. Los Santos has many other hangouts—use them instead of standing at Pillbox all day."
             },
             {
                 "title": "Avoid Roleplay Blurring",
-                "desc": "Avoid going out of role-play (blurring the lines between in-game and real life). Use [RP] tags if needed."
+                "desc": "Avoid letting real-life feelings spill over into RP. Do not rant OOC about IC events, and minimise use of OOC chat. If needed, briefly use OOC tags or channels to clarify, then return to roleplay."
             },
             {
-                "title": "OOC Chat",
-                "desc": "Using OOC (Out of Character) chat should be minimized."
+                "title": "OOC Chat Usage",
+                "desc": "OOC (Out of Character) chat should be used sparingly and only when necessary to clarify or resolve technical or RP issues. Extended arguments, insults, or drama in OOC are not allowed."
             },
             {
-                "title": "Discord Calls",
-                "desc": "Using Discord calls instead of in-game voice chat is not allowed."
+                "title": "Discord Calls and Third-Party VOIP",
+                "desc": "Using Discord calls or other third-party VOIP to communicate in situations instead of in-game voice is not allowed and is considered metagaming, unless explicitly permitted for OOC coordination not affecting active RP."
             },
             {
-                "title": "Exploiting",
-                "desc": "Exploiting bugs or glitches will result in a ban."
+                "title": "Exploiting and Modding",
+                "desc": "Exploiting bugs, glitches, or unintended game mechanics for advantage, or using client-side mods and hacks to gain an unfair edge, will result in severe punishment, including permanent bans."
             },
             {
                 "title": "Ghosting",
-                "desc": "Logging out in active role-play scenarios to avoid consequences is prohibited."
-            },
-            {
-                "title": "Modding",
-                "desc": "Using mods to gain an unfair advantage is forbidden."
+                "desc": "Logging out in active roleplay scenarios to avoid consequences or to reposition yourself is prohibited and is treated similarly to combat logging."
             },
             {
                 "title": "Stream Sniping",
-                "desc": "Using someone's stream to gain in-game information is prohibited."
+                "desc": "Using someone’s livestream to gain in-game information, track them, or influence your IC decisions is strictly forbidden and is considered both metagaming and harassment."
             },
             {
                 "title": "Voice Changers",
-                "desc": "Voice changers are not allowed unless approved by staff."
+                "desc": "Voice changers are not allowed unless you receive explicit permission from staff. If approved, your voice must still be clear and understandable."
             },
             {
                 "title": "Combat Reviving",
-                "desc": "Reviving during an active situation is not allowed unless approved by both parties."
+                "desc": "Reviving players during an active fight or gun battle to keep them in combat is not allowed unless both parties agree and it clearly serves the RP. EMS and police should respect active combat boundaries."
             },
             {
                 "title": "Scamming",
-                "desc": "Scamming in-game items is allowed, but scamming real money is strictly forbidden."
+                "desc": "Scamming in-game items, money, or trades through RP may be allowed within reason, but scamming real money or anything of real-world value is strictly forbidden and will result in harsh punishment."
             },
             {
-                "title": "Random Punching",
-                "desc": "Randomly punching other players without role-play is not allowed."
+                "title": "Random Punching and Griefing",
+                "desc": "Randomly punching, shoving, or otherwise griefing other players without RP reason is not allowed. All hostile actions must be backed by roleplay, not boredom or trolling."
             },
             {
-                "title": "Parking",
-                "desc": "Avoid parking vehicles in front of doorways or pathways."
+                "title": "Parking and Blocking Pathways",
+                "desc": "Do not park vehicles in front of doors, garages, or important pathways in a way that blocks access or disrupts RP. Park responsibly and realistically."
             },
             {
-                "title": "Vehicle Boosting",
-                "desc": "Boosting vehicles is not allowed unless approved by staff."
-            },
-            {
-                "title": "Gang Rules",
-                "desc": "Follow specific gang rules as outlined by staff."
+                "title": "Gang Rules (Overview)",
+                "desc": "Gangs must follow all server rules and any additional gang-specific guidelines laid down by staff or management. Creating a gang requires an original name, clear backstory, and consistent RP. Gang wars, hostilities, and territory claims must follow zone, RDM, and fear RP rules."
             }
         ]
     }
